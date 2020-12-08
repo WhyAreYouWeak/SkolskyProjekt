@@ -1,1 +1,3 @@
 # SkolskyProjekt
+
+daniel zarodnansky
